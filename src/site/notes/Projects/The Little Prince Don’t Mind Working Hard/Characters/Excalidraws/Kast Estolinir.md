@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/The Little Prince Don’t Mind Working Hard/Characters/Excalidraws/Kast Estolinir/"}
+{"dg-publish":true,"permalink":"/Projects/The Little Prince Don’t Mind Working Hard/Characters/Excalidraws/Kast Estolinir/","tags":["gardenEntry"]}
 ---
 
 
